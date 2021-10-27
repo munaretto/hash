@@ -1,4 +1,3 @@
-from os import path
 import sys
 from Crypto.Hash import SHA256
 
